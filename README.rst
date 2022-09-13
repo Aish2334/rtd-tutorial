@@ -1,9 +1,29 @@
-Template for the Read the Docs tutorial
-=======================================
+Features
+--------
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+- Be awesome
+- Make things faster
 
-Read the tutorial here:
+Installation
+------------
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Install $project by running:
+
+    install project
+
+Contribute
+----------
+
+- Issue Tracker: github.com/$project/$project/issues
+- Source Code: github.com/$project/$project
+
+Support
+-------
+
+If you are having issues, please let us know.
+We have a mailing list located at: project@google-groups.com
+
+License
+-------
+
+The project is licensed under the BSD license.
