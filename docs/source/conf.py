@@ -20,6 +20,7 @@
 project = 'aish2334_rtd_tutorial'
 copyright = '2022, Aishwarya'
 author = 'Aishwarya'
+master_doc = 'contents'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
